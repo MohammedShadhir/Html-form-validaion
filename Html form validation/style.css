@@ -1,0 +1,31 @@
+.display{
+    background-color: rgb(2, 16, 16);
+}
+
+.main{
+    margin: 5%;
+    padding: 5%;
+   
+    
+}
+.form{
+    margin: 0%;
+    color: aliceblue;
+    padding: 0%;
+  
+}
+#headding{
+    
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+.form label{
+    display: flex;
+    flex-direction: row;
+    font-size: 150%;
+}
+#buton{
+    padding-top: 5%;
+}
